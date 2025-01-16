@@ -59,7 +59,7 @@
         },
         "telegram": {
             "enable": true,
-            "pages": 5,
+            "pages": 1000,
             "exclude": "",
             "users": {
                 "channel": {
